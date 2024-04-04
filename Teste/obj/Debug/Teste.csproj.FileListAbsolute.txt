@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\Teste\bin\Debug\Teste.exe.config
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\Teste\bin\Debug\Teste.exe
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\Teste\bin\Debug\Teste.pdb
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\Teste\obj\Debug\Teste.exe
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\Teste\obj\Debug\Teste.pdb

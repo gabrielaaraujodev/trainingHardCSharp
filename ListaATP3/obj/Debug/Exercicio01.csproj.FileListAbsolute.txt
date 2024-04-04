@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\ListaATP3\bin\Debug\ListaATP3.exe.config
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\ListaATP3\bin\Debug\ListaATP3.exe
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\ListaATP3\bin\Debug\ListaATP3.pdb
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\ListaATP3\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\ListaATP3\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\ListaATP3\obj\Debug\ListaATP3.exe
+C:\Users\Gabriel Araujo\source\repos\ListaATP3\ListaATP3\obj\Debug\ListaATP3.pdb
